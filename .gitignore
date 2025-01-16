@@ -1,7 +1,0 @@
-# Ignorar caché de Python
-seprisa/contactlist/contactlist/__pycache__/
-seprisa/contactlist/contacts/__pycache__/
-seprisa/contactlist/formatorecepcionmateriaalergenos/__pycache__/
-
-# Ignorar librerías
-seprisa/contactlist/env/Lib/site-packages/
